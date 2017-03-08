@@ -15,6 +15,9 @@
 		A4A2B3151E6F9CBB00CAD284 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4A2B3131E6F9CBB00CAD284 /* LaunchScreen.storyboard */; };
 		A4A2B3201E6F9CBB00CAD284 /* CADisplayLinkTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A4A2B31F1E6F9CBB00CAD284 /* CADisplayLinkTestTests.m */; };
 		A4A2B32B1E6F9CBB00CAD284 /* CADisplayLinkTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A4A2B32A1E6F9CBB00CAD284 /* CADisplayLinkTestUITests.m */; };
+		A4A2B33B1E6FAEE100CAD284 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A4A2B3381E6FAEE100CAD284 /* 1.jpg */; };
+		A4A2B33C1E6FAEE100CAD284 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A4A2B3391E6FAEE100CAD284 /* 2.jpg */; };
+		A4A2B33D1E6FAEE100CAD284 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A4A2B33A1E6FAEE100CAD284 /* 3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +54,9 @@
 		A4A2B3261E6F9CBB00CAD284 /* CADisplayLinkTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CADisplayLinkTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4A2B32A1E6F9CBB00CAD284 /* CADisplayLinkTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CADisplayLinkTestUITests.m; sourceTree = "<group>"; };
 		A4A2B32C1E6F9CBB00CAD284 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A4A2B3381E6FAEE100CAD284 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		A4A2B3391E6FAEE100CAD284 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		A4A2B33A1E6FAEE100CAD284 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +111,9 @@
 				A4A2B3091E6F9CBB00CAD284 /* AppDelegate.m */,
 				A4A2B30B1E6F9CBB00CAD284 /* ViewController.h */,
 				A4A2B30C1E6F9CBB00CAD284 /* ViewController.m */,
+				A4A2B3381E6FAEE100CAD284 /* 1.jpg */,
+				A4A2B3391E6FAEE100CAD284 /* 2.jpg */,
+				A4A2B33A1E6FAEE100CAD284 /* 3.jpg */,
 				A4A2B30E1E6F9CBB00CAD284 /* Main.storyboard */,
 				A4A2B3111E6F9CBB00CAD284 /* Assets.xcassets */,
 				A4A2B3131E6F9CBB00CAD284 /* LaunchScreen.storyboard */,
@@ -249,7 +258,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A4A2B33D1E6FAEE100CAD284 /* 3.jpg in Resources */,
 				A4A2B3151E6F9CBB00CAD284 /* LaunchScreen.storyboard in Resources */,
+				A4A2B33B1E6FAEE100CAD284 /* 1.jpg in Resources */,
+				A4A2B33C1E6FAEE100CAD284 /* 2.jpg in Resources */,
 				A4A2B3121E6F9CBB00CAD284 /* Assets.xcassets in Resources */,
 				A4A2B3101E6F9CBB00CAD284 /* Main.storyboard in Resources */,
 			);
